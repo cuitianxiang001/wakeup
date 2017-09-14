@@ -1,12 +1,12 @@
 # Snowboy Hotword Detection
 
-by [KITT.AI](http://kitt.ai).
+by [KITT.AI] (http://kitt.ai).
 
-[Home Page](https://snowboy.kitt.ai)
+[Home Page] (https://snowboy.kitt.ai)
 
 [Full Documentation] (http://docs.kitt.ai/snowboy) and [FAQ](http://docs.kitt.ai/snowboy#faq)
 
-[Discussion Group](https://groups.google.com/a/kitt.ai/forum/#!forum/snowboy-discussion) (or send email to snowboy-discussion@kitt.ai)
+[Discussion Group] (https://groups.google.com/a/kitt.ai/forum/#!forum/snowboy-discussion) (or send email to snowboy-discussion@kitt.ai)
 
 (The discussion group is new since September 2016 as we are getting many messages every day. Please send general questions there. For bugs, use Github issues.)
 
@@ -14,7 +14,7 @@ Version: 1.2.0 (3/25/2017)
 
 ## Alexa support
 
-Snowboy now brings hands-free experience to the [Alexa AVS sample app](https://github.com/alexa/alexa-avs-sample-app) on Raspberry Pi! See more info below regarding the performance and how you can use other hotword models.
+Snowboy now brings hands-free experience to the [Alexa AVS sample app] (https://github.com/alexa/alexa-avs-sample-app) on Raspberry Pi! See more info below regarding the performance and how you can use other hotword models.
 
 **Performance**
 
